@@ -63,9 +63,5 @@ This project can be further optimized for performance using Intel oneAPI tools a
 
 ## Example Output
 
-### Input Video
-<img src="car_chase_01.mp4">
+<img src="https://github.com/ARCHANAREDDY15/Object_Detection/blob/main/car.gif">
 
-
-### Output Video
-[![Output Video](https://example.com/output_video_thumbnail.png)](path/to/output/video.avi)

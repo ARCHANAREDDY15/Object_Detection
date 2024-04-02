@@ -61,7 +61,4 @@ This project can be further optimized for performance using Intel oneAPI tools a
 
 5. Measure the performance improvements achieved by the optimizations and compare them with the baseline implementation.
 
-## Example Output
-
-<img src="https://github.com/ARCHANAREDDY15/Object_Detection/blob/main/car.gif">
 

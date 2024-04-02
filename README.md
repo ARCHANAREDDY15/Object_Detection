@@ -46,7 +46,7 @@ This project can be further optimized for performance using Intel oneAPI tools a
 
 ### Prerequisites
 
-- Intel oneAPI Base Toolkit (Install from [here](https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html))
+- Intel oneAPI Base Toolkit
 - Intel Distribution of OpenVINO toolkit (Optional)
 
 ### Optimizing with Intel oneAPI
